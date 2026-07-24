@@ -1,8 +1,18 @@
 aid: basis-set-ventures
 name: Basis Set Ventures
-description: 'Basis Set Ventures is a company surfaced as a portfolio company of foundry-group and added
-  to the API Evangelist network as a stub for enrichment. Sector: venture-capital. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  Basis Set Ventures is an AI-native, early-stage venture capital firm founded in
+  2017 by Dr. Lan Xuezhao and headquartered in the San Francisco Bay Area. The firm
+  invests at the seed and early stages in founders building artificial intelligence
+  across AI infrastructure, autonomous systems, molecular and materials discovery,
+  agentic development tooling, intelligent collaboration, and automated workflows.
+  Basis Set announced a $250M Fund IV and describes itself as "the first capital
+  when it's just you and your vision," pairing capital with an operator-led founder
+  concierge team. Portfolio companies include Path Robotics, Quince, Sakana AI,
+  Tigris Data, Mem0, OpenArt, Cusp, Simular, Vizcom, and Entire. This is an API
+  Evangelist network profile of the firm; Basis Set Ventures does not publish a
+  public API, developer portal, or SDKs, so this record captures firm identity,
+  web properties, and derived security posture rather than API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/basis-set-ventures/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +20,31 @@ x-backed-by:
 - foundry-group
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://cdn.prod.website-files.com/681ad1f2c3ad523e8b456421/681ad1f2c3ad523e8b45662c_favicon%20256.svg
 tags:
 - Company
 - Venture Capital
+- Artificial Intelligence
+- Machine Learning
+- Seed Stage
+- Early Stage
+- AI Infrastructure
+- Autonomous Systems
+- Startups
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.basisset.com
+- type: Portfolio
+  url: https://www.basisset.com/portfolio
+- type: Team
+  url: https://www.basisset.com/team
+- type: About
+  url: https://www.basisset.com/basis-set-faq
+- type: Blog
+  url: https://bsv.medium.com/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/basis-set/
+- type: Twitter
+  url: https://x.com/basisset
+- type: YouTube
+  url: https://www.youtube.com/channel/UC5xM2NJvoKLJbBDHK9sobIg
+- type: DomainSecurity
+  url: security/basis-set-ventures-domain-security.yml
+- type: LLMsTxt
+  url: llms/basis-set-ventures-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,30 @@
+# Basis Set Ventures
+
+> Basis Set Ventures is an AI-native, early-stage venture capital firm founded in 2017 by Dr. Lan Xuezhao. The firm backs seed and early-stage founders building artificial intelligence: AI infrastructure, autonomous systems, molecular and materials discovery, agentic development tooling, and automated workflows. Basis Set announced a $250M Fund IV and positions itself as "the first capital when it's just you and your vision."
+
+This is an API Evangelist network profile of Basis Set Ventures as a venture-capital firm. Basis Set Ventures does not publish a public API, developer portal, SDKs, or an event/webhook surface; the entries below are the firm's public web properties plus the API Evangelist enrichment artifacts derived for it.
+
+## Firm
+- [Home](https://www.basisset.com): Basis Set Ventures homepage.
+- [Team](https://www.basisset.com/team): Partners and team members.
+- [Portfolio](https://www.basisset.com/portfolio): Portfolio companies.
+- [Research](https://www.basisset.com/research): Research and vertical market reports.
+- [FAQ](https://www.basisset.com/basis-set-faq): Frequently asked questions for founders.
+- [Basis Set AI Fellowship](https://www.basisset.com/basis-set-ai-fellowship): Fellowship program.
+- [Careers](https://jobs.basisset.com): Open roles across the firm and portfolio.
+
+## Blog
+- [Medium — Basis Set Ventures](https://bsv.medium.com/): Long-form perspectives and portfolio announcements.
+- [Insights: Announcing our $250M Fund IV](https://www.basisset.com/insights/announcing-our-250m-fund-iv)
+- [Insights: Building with agents, not code](https://www.basisset.com/insights/building-with-agents-not-code)
+- [Insights: Inference is the future of AI](https://www.basisset.com/insights/inference-is-the-future-of-ai)
+
+## Social
+- [LinkedIn](https://www.linkedin.com/company/basis-set/)
+- [X / Twitter](https://x.com/basisset)
+- [Instagram](https://www.instagram.com/basis_set/)
+- [YouTube](https://www.youtube.com/channel/UC5xM2NJvoKLJbBDHK9sobIg)
+
+## API Evangelist artifacts
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/basis-set-ventures/refs/heads/main/apis.yml): APIs.json profile for Basis Set Ventures.
+- [Domain security probe](https://raw.githubusercontent.com/api-evangelist/basis-set-ventures/refs/heads/main/security/basis-set-ventures-domain-security.yml): TLS/HSTS/SPF/DMARC/DNSSEC posture for basisset.com.
