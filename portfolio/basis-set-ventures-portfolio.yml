@@ -1,0 +1,498 @@
+name: Basis Set Ventures Portfolio
+type: Portfolio
+generated: '2026-10-18'
+method: searched
+source: https://basisset.com/portfolio
+note: Portfolio page lists names, one-line descriptions and theme only (no company URLs); 17 stealth entries
+  omitted. www.basisset.com/portfolio served a cached Work-Bench page on 2026-10-18; apex basisset.com/portfolio
+  served the correct page.
+summary:
+  portfolio_total: 51
+  in_network: 24
+  api_providers: 9
+  missing: 27
+  stubs_created: 0
+companies:
+- name: Assembled
+  description: Workforce management platform helping organizations scale customer support.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: assembled
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Banner
+  description: Automating the real estate capital process, from bidding to reporting.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: banner
+  in_network: false
+  is_api_provider: false
+- name: Basata
+  description: Giving healthcare admin teams superpowers.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: basata
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Beeble
+  description: Bringing cutting edge visual effects (VFX) to indie creators.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: beeble
+  in_network: false
+  is_api_provider: false
+- name: BNTO
+  description: Automating supply chains for new, used and rental fashion.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: bnto
+  in_network: false
+  is_api_provider: false
+- name: Clearly AI
+  description: Automating security and privacy reviews.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: clearly-ai
+  in_network: false
+  is_api_provider: false
+- name: Cusp
+  description: Foundation models for molecular and materials discovery.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: cusp
+  in_network: false
+  is_api_provider: false
+- name: DataGrail
+  description: Data privacy software simplifying compliance with GDPR and CCPA.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: datagrail
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: DataLane
+  description: Growing outbound revenue for businesses selling to SMBs.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: datalane
+  in_network: false
+  is_api_provider: false
+- name: Dataro
+  description: Institutional fundraising platform supercharging development.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: dataro
+  in_network: false
+  is_api_provider: false
+- name: Daydream
+  description: End-to-end automation of programmatic SEO.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: daydream
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Drata
+  description: Security and compliance automation platform built for enterprise.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: drata
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Elicit
+  description: AI research assistant analyzing the world’s research.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: elicit
+  in_network: false
+  is_api_provider: false
+- name: Entire
+  description: Developer platform built for human and agent collaboration.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: entire
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ergeon
+  description: Transforming home improvement with automation from design to delivery.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: ergeon
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Farmwise
+  description: Autonomous weeding helping farmers reach productivity and profitability goals.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: farmwise
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: FerretDB
+  description: Open Source MongoDB alternative, built on Postgres.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: ferretdb
+  in_network: false
+  is_api_provider: false
+- name: Flint
+  description: Personalized learning built for schools.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: flint
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Hallway
+  description: 3D Avatars that extend the digital identities of creators.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: hallway
+  in_network: false
+  is_api_provider: false
+- name: Imbue
+  description: AI agents that can reason and code.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: imbue
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Internet Backyard
+  description: Financial operations for data centers.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: internet-backyard
+  in_network: false
+  is_api_provider: false
+- name: Leaping AI
+  description: Automating complex call centers with voice AI.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: leaping-ai
+  in_network: false
+  is_api_provider: false
+- name: Mem0
+  description: Memory for LLMs, enabling rapid deployment of personalized apps.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: mem0
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Momentum
+  description: Automating sales workflows and improving time to close for every deal.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: momentum
+  in_network: false
+  is_api_provider: false
+- name: Neion
+  description: A Better Way to Make Medicine.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: neion
+  in_network: false
+  is_api_provider: false
+- name: Norm
+  description: Regulation-aware AI agents built for compliance teams.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: norm
+  in_network: false
+  is_api_provider: false
+- name: Nuro
+  description: Pioneer in AI-first autonomy, revolutionizing mobility for all.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: nuro
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: OpenArt
+  description: Comprehensive visual storytelling platform, redefining who can create.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: openart
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Parasail
+  description: Faster GPU clouds at 1/5th the price, coupled with LLM deployments.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: parasail
+  in_network: false
+  is_api_provider: false
+- name: Path
+  description: Autonomous welding and manufacturing robots.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: path
+  in_network: false
+  is_api_provider: false
+- name: Quill
+  description: Private and secure enterprise knowledge.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: quill
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Quince
+  description: Democratizing luxury goods through its direct and automated supply chain.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: quince
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Rasa
+  description: Conversational AI software for building text and voice-based assistants.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: rasa
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Reflow
+  description: View, Optimize, Automate Enterprise Operations.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: reflow
+  in_network: false
+  is_api_provider: false
+- name: Reve
+  description: Transforming cinematic production, from concept and scripting to final cuts.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: reve
+  in_network: false
+  is_api_provider: false
+- name: Rowspace
+  description: Specialized intelligence for investors to make faster, sharper decisions.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: rowspace
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Sakana
+  description: Research lab creating nature-inspired AI.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: sakana
+  in_network: false
+  is_api_provider: false
+- name: Seen Health
+  description: Full-stack senior care, improving health outcomes with end-to-end technology.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: seen-health
+  in_network: false
+  is_api_provider: false
+- name: Simular
+  description: Personal AI agents on digital devices.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: simular
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Single Origin
+  description: Optimizing SQL semantics with one-click.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: single-origin
+  in_network: false
+  is_api_provider: false
+- name: Slope
+  description: B2B payments infrastructure and access to capital through AI underwriting.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: slope
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Snappr
+  description: Democratizing professional visual content for every business.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: snappr
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Solvely.ai
+  description: AI agents for learning to deliver adaptive, personalized, and joyful education.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: solvelyai
+  in_network: false
+  is_api_provider: false
+- name: Spice
+  description: All-in-one modular and scalable AI infrastructure.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: spice
+  in_network: false
+  is_api_provider: false
+- name: Spuree
+  description: Animation tools powered by character performance foundation models.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: spuree
+  in_network: false
+  is_api_provider: false
+- name: Talofa
+  description: Universal infrastructure for gamified fitness experiences.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: talofa
+  in_network: false
+  is_api_provider: false
+- name: Thinking Machines
+  description: Transformative AI products pushing the boundary of possibility.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: thinking-machines
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Tigris Data
+  description: Globally distributed, S3-compatible, object storage service.
+  sector: Scalable Infrastructure
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: tigris-data
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Verge
+  description: Discovering treatments for neurodegenerative disease with AI.
+  sector: Autonomy
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  suggested_slug: verge
+  in_network: false
+  is_api_provider: false
+- name: Vizcom
+  description: Product design platform enabling designers to bring their visions to life.
+  sector: Intelligent Collaboration
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: vizcom
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Workstream
+  description: Automated HR, payroll, and hiring platform for hourly workers.
+  sector: Automated Workflows
+  stage: unknown
+  status: active
+  source: https://basisset.com/portfolio
+  slug: workstream
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug

@@ -1,0 +1,193 @@
+generated: '2026-10-18'
+method: derived
+source_vc: basis-set-ventures
+leads:
+- name: Banner
+  url: ''
+  suggested_slug: banner
+  sector: Automated Workflows
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Beeble
+  url: ''
+  suggested_slug: beeble
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: BNTO
+  url: ''
+  suggested_slug: bnto
+  sector: Automated Workflows
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Clearly AI
+  url: ''
+  suggested_slug: clearly-ai
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Cusp
+  url: ''
+  suggested_slug: cusp
+  sector: Autonomy
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: DataLane
+  url: ''
+  suggested_slug: datalane
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Dataro
+  url: ''
+  suggested_slug: dataro
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Elicit
+  url: ''
+  suggested_slug: elicit
+  sector: Autonomy
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: FerretDB
+  url: ''
+  suggested_slug: ferretdb
+  sector: Scalable Infrastructure
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Hallway
+  url: ''
+  suggested_slug: hallway
+  sector: Autonomy
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Internet Backyard
+  url: ''
+  suggested_slug: internet-backyard
+  sector: Automated Workflows
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Leaping AI
+  url: ''
+  suggested_slug: leaping-ai
+  sector: Automated Workflows
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Momentum
+  url: ''
+  suggested_slug: momentum
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Neion
+  url: ''
+  suggested_slug: neion
+  sector: Autonomy
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Norm
+  url: ''
+  suggested_slug: norm
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Parasail
+  url: ''
+  suggested_slug: parasail
+  sector: Scalable Infrastructure
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Path
+  url: ''
+  suggested_slug: path
+  sector: Autonomy
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Reflow
+  url: ''
+  suggested_slug: reflow
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Reve
+  url: ''
+  suggested_slug: reve
+  sector: Autonomy
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Sakana
+  url: ''
+  suggested_slug: sakana
+  sector: Scalable Infrastructure
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Seen Health
+  url: ''
+  suggested_slug: seen-health
+  sector: Automated Workflows
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Single Origin
+  url: ''
+  suggested_slug: single-origin
+  sector: Scalable Infrastructure
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Solvely.ai
+  url: ''
+  suggested_slug: solvelyai
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Spice
+  url: ''
+  suggested_slug: spice
+  sector: Scalable Infrastructure
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Spuree
+  url: ''
+  suggested_slug: spuree
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Talofa
+  url: ''
+  suggested_slug: talofa
+  sector: Intelligent Collaboration
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false
+- name: Verge
+  url: ''
+  suggested_slug: verge
+  sector: Autonomy
+  source_vc: basis-set-ventures
+  source: https://basisset.com/portfolio
+  stub_created: false

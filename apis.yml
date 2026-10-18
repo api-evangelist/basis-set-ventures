@@ -1,20 +1,13 @@
 aid: basis-set-ventures
 name: Basis Set Ventures
-description: >-
-  Basis Set Ventures is an AI-native, early-stage venture capital firm founded in
-  2017 by Dr. Lan Xuezhao and headquartered in the San Francisco Bay Area. The firm
-  invests at the seed and early stages in founders building artificial intelligence
-  across AI infrastructure, autonomous systems, molecular and materials discovery,
-  agentic development tooling, intelligent collaboration, and automated workflows.
-  Basis Set announced a $250M Fund IV and describes itself as "the first capital
-  when it's just you and your vision," pairing capital with an operator-led founder
-  concierge team. Portfolio companies include Path Robotics, Quince, Sakana AI,
-  Tigris Data, Mem0, OpenArt, Cusp, Simular, Vizcom, and Entire. This is an API
-  Evangelist network profile of the firm; Basis Set Ventures does not publish a
-  public API, developer portal, or SDKs, so this record captures firm identity,
-  web properties, and derived security posture rather than API artifacts.
+description: Basis Set Ventures is an AI-native, early-stage venture capital firm founded in 2017 by Dr. Lan Xuezhao and headquartered in the San Francisco Bay Area. The firm invests at the seed and early
+  stages in founders building artificial intelligence across AI infrastructure, autonomous systems, molecular and materials discovery, agentic development tooling, intelligent collaboration, and automated
+  workflows. Basis Set announced a $250M Fund IV and describes itself as "the first capital when it's just you and your vision," pairing capital with an operator-led founder concierge team. Its public portfolio
+  page lists 51 named companies plus 17 stealth investments across four themes (Scalable Infrastructure, Intelligent Collaboration, Automated Workflows, Autonomy); portfolio companies include Path Robotics,
+  Quince, Sakana AI, Tigris Data, Mem0, OpenArt, Cusp, Simular, Vizcom, and Entire. This is an API Evangelist network profile of the firm; Basis Set Ventures does not publish a public API, developer portal,
+  or SDKs, so this record captures firm identity, web properties, and derived security posture rather than API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/basis-set-ventures/refs/heads/main/apis.yml
-x-type: company
+x-type: venture-capital
 x-source: vc-portfolio
 x-backed-by:
 - foundry-group
@@ -44,7 +37,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-18'
 image: https://cdn.prod.website-files.com/681ad1f2c3ad523e8b456421/681ad1f2c3ad523e8b45662c_favicon%20256.svg
 tags:
 - Company
@@ -56,6 +49,8 @@ tags:
 - AI Infrastructure
 - Autonomous Systems
 - Startups
+- Seed
+- San Francisco
 tags_raw:
 - Company
 - Venture Capital
@@ -73,6 +68,8 @@ maintainers:
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+- FN: Basis Set Ventures
+  url: https://www.basisset.com
 common:
 - type: Website
   url: https://www.basisset.com
@@ -94,8 +91,28 @@ common:
   url: security/basis-set-ventures-domain-security.yml
 - type: LLMsTxt
   url: llms/basis-set-ventures-llms.txt
+- type: Portfolio
+  url: portfolio/basis-set-ventures-portfolio.yml
+- type: Jobs
+  url: https://jobs.basisset.com
+- type: Features
+  name: Fund Facts
+  data:
+  - name: Stage
+    value: Seed / early stage ("the first capital when it's just you and your vision")
+  - name: Sectors
+    value: 'AI: Scalable Infrastructure, Intelligent Collaboration, Automated Workflows, Autonomy'
+  - name: Founded
+    value: 2017 ("An AI-native venture fund since 2017")
+  - name: Latest fund
+    value: $250M Fund IV (announced on homepage)
+  sources:
+  - https://www.basisset.com/
+  - https://basisset.com/portfolio
+  updated: '2026-10-18'
 x-enrichment:
   date: '2026-07-19'
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-category: Venture Capital
